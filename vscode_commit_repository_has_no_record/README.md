@@ -1,6 +1,6 @@
 # 使用 IDE 提交 Github Contribution activity 沒有顯示
 
-<img src="https://github.com/Jump-Bow/github_tutorial/blob/main/vscode_commit_repository_has_no_record/commits.png" width="750px">
+<img src="https://github.com/Jump-Bow/github_tutorial/blob/main/vscode_commit_repository_has_no_record/commits.png" width="750">
 
 
 
